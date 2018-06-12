@@ -1,0 +1,11 @@
+C:\Users\USER\source\repos\memo\memo\bin\Debug\memo.exe.config
+C:\Users\USER\source\repos\memo\memo\bin\Debug\memo.exe
+C:\Users\USER\source\repos\memo\memo\bin\Debug\memo.pdb
+C:\Users\USER\source\repos\memo\memo\obj\Debug\memo.csprojResolveAssemblyReference.cache
+C:\Users\USER\source\repos\memo\memo\obj\Debug\memo.FormNotePad.resources
+C:\Users\USER\source\repos\memo\memo\obj\Debug\memo.Properties.Resources.resources
+C:\Users\USER\source\repos\memo\memo\obj\Debug\memo.csproj.GenerateResource.cache
+C:\Users\USER\source\repos\memo\memo\obj\Debug\memo.csproj.CoreCompileInputs.cache
+C:\Users\USER\source\repos\memo\memo\obj\Debug\memo.exe
+C:\Users\USER\source\repos\memo\memo\obj\Debug\memo.pdb
+C:\Users\USER\source\repos\memo\memo\obj\Debug\memo.FormFind.resources
