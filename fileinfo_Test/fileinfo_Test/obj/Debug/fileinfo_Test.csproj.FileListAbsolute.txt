@@ -1,0 +1,10 @@
+C:\Users\USER\source\repos\fileinfo_Test\fileinfo_Test\bin\Debug\fileinfo_Test.exe.config
+C:\Users\USER\source\repos\fileinfo_Test\fileinfo_Test\bin\Debug\fileinfo_Test.exe
+C:\Users\USER\source\repos\fileinfo_Test\fileinfo_Test\bin\Debug\fileinfo_Test.pdb
+C:\Users\USER\source\repos\fileinfo_Test\fileinfo_Test\obj\Debug\fileinfo_Test.csprojResolveAssemblyReference.cache
+C:\Users\USER\source\repos\fileinfo_Test\fileinfo_Test\obj\Debug\fileinfo_Test.Form1.resources
+C:\Users\USER\source\repos\fileinfo_Test\fileinfo_Test\obj\Debug\fileinfo_Test.Properties.Resources.resources
+C:\Users\USER\source\repos\fileinfo_Test\fileinfo_Test\obj\Debug\fileinfo_Test.csproj.GenerateResource.cache
+C:\Users\USER\source\repos\fileinfo_Test\fileinfo_Test\obj\Debug\fileinfo_Test.csproj.CoreCompileInputs.cache
+C:\Users\USER\source\repos\fileinfo_Test\fileinfo_Test\obj\Debug\fileinfo_Test.exe
+C:\Users\USER\source\repos\fileinfo_Test\fileinfo_Test\obj\Debug\fileinfo_Test.pdb
